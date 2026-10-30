@@ -83,15 +83,6 @@ Backend & Full-Stack Engineer based in Mumbai, India. Passionate about building 
 
 ---
 
-### 📊 GitHub & Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shri1303&show_icons=true&theme=tokyonight&count_private=true" height="175" alt="Shrikant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shri1303&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
-</p>
-
----
-
 ### 🎓 Education
 
 - **Bachelor of Engineering in Computer Science**  
